@@ -7,3 +7,8 @@ git remote add origin "https://github.com/a-norkov/seminar.git"
 Для отправки изменений в репозиторий, необходимо ввести команду
 
 git push -u origin main
+
+# Получение изменений из репозитория
+Для актуализации репозитория, необходимо ввести команду
+
+git pull
